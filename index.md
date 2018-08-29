@@ -6,4 +6,4 @@ Things I like about cs193
   
   -Lectures
   
-  -[Github](https:github.com)
+  -[Github](http:github.com)
