@@ -3,5 +3,7 @@
 Things ~~I like~~ about cs193
  
   -Labs
+  
   -Lectures
+  
   -[Github](https:github.com)
